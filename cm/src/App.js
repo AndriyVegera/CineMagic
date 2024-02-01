@@ -56,11 +56,11 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route path="/MySite/" element={<Home />} />
-          <Route path="/:mediaType/:id" element={<Details />} />
-          <Route path="/search/:query" element={<SearchResult />} />
-          <Route path="/explore/:mediaType" element={<Explore />} />
-          <Route path="*" element={<PageNotFound />} />
+          <Route path="/CineMagic/" element={<Home />} />
+          <Route path="/CineMagic/:mediaType/:id" element={<Details />} />
+          <Route path="/CineMagic/search/:query" element={<SearchResult />} />
+          <Route path="/CineMagic/explore/:mediaType" element={<Explore />} />
+          <Route path="/CineMagic/*" element={<PageNotFound />} />
         </Routes>
         <Footer />
       </BrowserRouter>
