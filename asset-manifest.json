@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CineMagic/static/css/main.e8572ddb.css",
-    "main.js": "/CineMagic/static/js/main.4f7e2c65.js",
+    "main.js": "/CineMagic/static/js/main.67bd1793.js",
     "reactPlayerPreview.js": "/CineMagic/static/js/reactPlayerPreview.ca3414dc.chunk.js",
     "static/media/no-poster.png": "/CineMagic/static/media/no-poster.de8cb0a7786e6bf2b2de.png",
     "static/media/avatar.png": "/CineMagic/static/media/avatar.0affc1eeb2b145c80bd1.png",
@@ -9,11 +9,11 @@
     "static/media/cinemagic-logo.png": "/CineMagic/static/media/cinemagic-logo.8c56ec591eaffc0f40ed.png",
     "index.html": "/CineMagic/index.html",
     "main.e8572ddb.css.map": "/CineMagic/static/css/main.e8572ddb.css.map",
-    "main.4f7e2c65.js.map": "/CineMagic/static/js/main.4f7e2c65.js.map",
+    "main.67bd1793.js.map": "/CineMagic/static/js/main.67bd1793.js.map",
     "reactPlayerPreview.ca3414dc.chunk.js.map": "/CineMagic/static/js/reactPlayerPreview.ca3414dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8572ddb.css",
-    "static/js/main.4f7e2c65.js"
+    "static/js/main.67bd1793.js"
   ]
 }
